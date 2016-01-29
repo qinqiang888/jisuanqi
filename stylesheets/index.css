@@ -1,0 +1,155 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+	background: url(../img/1405582354_19.jpg);
+	background-size: cover;
+
+}
+div{
+	cursor: pointer;
+}
+.jisuanqi{
+	margin-top: 50px;
+	width: 280px;
+	height: 420px;
+	margin-top: 40px;
+	background-color: #95b2ae;
+	padding-top: 20px;
+	border-radius: 15px;
+
+
+}
+.pingmu{
+	width: 260px;
+	height: 50px;
+	background-color: #659267;
+	font-size: 2em;
+	text-align: right;
+	/*margin: 0 auto;*/
+	box-shadow: 0 0 5px black;
+	border: 2px solid black
+	/*margin-left: 15px;*/
+
+
+
+}
+.zhuye{
+	margin: 0 auto;
+	width: 270px;
+}
+.btn{
+	width: 50px;
+	height: 40px;
+	margin: 8px 8px;
+	float: left;
+	text-align: center;
+	box-shadow: 0 0 0.5 black;
+	line-height: 40px;
+	border-radius: 5px;
+	box-shadow: 0 0 3px #2e2c2c;
+	background-color: white;
+}
+.dengyu{
+	height: 100px;
+	background-color: #cf6429;
+	line-height: 100px;
+}
+.zero{
+	width: 120px;
+	margin-top: -50px;
+
+}
+.a{
+	background-color: black;
+	color: white;
+}
+.b{
+	background-color: #656060;
+	color: white;
+}
+.dian{
+	margin-top: -50px;
+	margin-left: 142px;
+	
+}
+.jisuanqi1{
+	margin-top: 50px;
+	width: 490px;
+	height: 350px;
+	margin-top: 250px;
+	margin-left: 300px;
+	background-color: #95b2ae;
+	padding-top: 20px;
+	border-radius: 15px;
+	position: relative;
+	/*border:5px solid white;*/
+	box-shadow:5px 5px 10px #dadfff;
+	background-color: rgba(83,110,214,0.3);
+	/*-webkit-transform:rotateZ(2deg);*/
+}
+.btn1{
+	width: 55px;
+	height: 40px;
+	margin: 3px 3px;
+	float: left;
+	color: #ffffff;
+	font-size: 18px;
+	text-align: center;
+	box-shadow: 0 0 0.5 black;
+	line-height: 40px;
+	border-radius: 5px;
+	box-shadow: 0 0 3px #2e2c2c;
+	background-color: white;
+	background-color: rgba(31,67,85,0.2);
+}
+.pingmu1{
+	width: 480px;
+	height: 60px;
+	/*background-color: #659267;*/
+	background-color: rgba(161,183,183,0.3);
+	font-size: 3em;
+	text-align: right;
+	margin: 0 auto;
+	box-shadow: 0 0 5px black;
+	border: 2px solid #544f4f;
+	/*margin-left: 15px;*/
+}
+.zero1{
+	width: 115px;
+	height: 40px;
+}
+
+.zhuye1{
+	margin: 0 auto;
+	width: 480px;
+
+}
+.dengyu1{
+	height: 90px;
+	background: rgba(161,183,183,0.3);
+	position: absolute;
+	bottom: 8px;
+	right: 2px;
+	text-align: center;
+	line-height: 90px;
+
+}
+.a1{
+	background-color: rgba(161,183,183,0.3);
+	color: white;
+}
+.b1{
+	background-color: rgba(161,183,183,0.3);
+	color: white;
+}
+#rember{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 50px;
+	left: 3px;
+	font-size: 30px;
+	display: none;
+	z-index: 888;
+}
